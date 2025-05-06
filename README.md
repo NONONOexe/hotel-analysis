@@ -1,2 +1,3 @@
-# hotel-analysis
-宿さがしのデータ分析（Kanazawa.R#3）
+# 宿さがしのデータ分析（Kanazawa.R #3）
+
+Kanazawa.R #3で発表した「宿さがしのデータ分析」で紹介したプログラムです。
