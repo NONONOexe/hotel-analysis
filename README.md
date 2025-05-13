@@ -8,6 +8,10 @@
 
 https://www.docswell.com/s/NONONOexe/Z823Q1-kanazawar-3-setariaviridis
 
+## デモアプリケーション
+
+https://nononoexe.github.io/hotel-analysis/
+
 ## ライセンス
 
 このプロジェクトはMITライセンスの下で提供されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
